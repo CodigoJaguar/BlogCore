@@ -10,3 +10,42 @@ C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\
 C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
 C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
 C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+E:\UDEMY\Master en ASP.NET MVC NET 8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+E:\UDEMY\Master_en_ASPNET_MVC_NET_8\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+D:\.NET\BlogCore\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll

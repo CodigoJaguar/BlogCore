@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {}
+    "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
+    "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "projectUniqueName": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
         "projectName": "BlogCore.AccesoDatos",
-        "projectPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\JANUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.AccesoDatos\\obj\\",
+        "projectPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JANUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\israe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
-                "projectPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
+              "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+                "projectPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
               },
-              "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
+              "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+                "projectPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
               }
             }
           }
@@ -47,7 +45,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -92,25 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
-        "packagesPath": "C:\\Users\\JANUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Models\\obj\\",
+        "projectPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JANUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\israe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,7 +122,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,7 +134,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -163,25 +171,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+    "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectUniqueName": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "projectName": "BlogCore.Utilidades",
-        "projectPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\JANUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JANUS\\Desktop\\Curso_Net8_Mvc\\BlogCore\\BlogCore.Utilidades\\obj\\",
+        "projectPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\BlogCore\\BlogCore\\BlogCore.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JANUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\israe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -190,7 +197,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -203,7 +209,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -224,7 +236,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

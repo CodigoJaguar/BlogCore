@@ -1,5 +1,6 @@
 using BlogCore.AccesoDatos.Data.Repository;
 using BlogCore.AccesoDatos.Data.Repository.IRepository;
+using BlogCore.AccesoDatos.DataSeeding;
 using BlogCore.Data;
 using BlogCore.Models;
 using Microsoft.AspNetCore.Identity;
@@ -8,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("ConexionSQL") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
@@ -23,6 +24,9 @@ builder.Services.AddControllersWithViews();
 //Agregar contenedor de trabajo al contenedor IoC de inyecci�n de dependencias
 builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
 
+//Agregar servicio de DataSeed
+builder.Services.AddScoped<IDataSeed, DataSeed>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -35,6 +39,18 @@ else
     app.UseExceptionHandler("/Home/Error");
 }
 app.UseStaticFiles();
+
+//Seed de datos
+SiembraDeDatos();
+
+void SiembraDeDatos()
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var dataSeed = scope.ServiceProvider.GetRequiredService<IDataSeed>();
+        dataSeed.Inicializar();
+    }
+}
 
 app.UseRouting();
 
